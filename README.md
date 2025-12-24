@@ -1,4 +1,4 @@
-# 🎯 ** Complete-System-Information-Gathering-Script-in-Cybersecurity** 🔐
+# 🎯 Complete-System-Information-Gathering-Script-in-Cybersecurity 🔐
 
 ## 📌 Overview
 
