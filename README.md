@@ -1,0 +1,1 @@
+# Complete-System-Information-Gathering-Script-in-cybersecurity
